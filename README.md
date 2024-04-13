@@ -3,7 +3,7 @@
 Este repositório contém uma aplicação simples de To-Do List. O objetivo da aplicação é permitir aos usuários criar e gerenciar suas listas de tarefas.
 
 ## Conteúdo 🔍
-
+![Captura de tela 2024-04-13 145525](https://github.com/LaylaSCastro/To-Do-List/assets/150952875/7d43c3aa-0958-41e8-b274-68cf32769aed)
 - `index.html`: Arquivo HTML contendo a estrutura da aplicação.
 - `style.css`: Arquivo CSS para estilização da aplicação.
 - `script.js`: Arquivo JavaScript contendo a lógica da To-Do List.
